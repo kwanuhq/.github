@@ -1,3 +1,2 @@
-## Hi there 👋
-
-🌈 This is a space to tinker with and experiment with my ideas.
+# Kwanu.
+A space to tinker with and explore my own ideas.
